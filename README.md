@@ -3,7 +3,7 @@
 ### Je vis à Paris et je suis étudiante en informatique.
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/BAhhqi9XW85sg6gdhS/giphy.gif"/>
+  <img align="center" width="45%" alt="GIF" src="https://media.giphy.com/media/BAhhqi9XW85sg6gdhS/giphy.gif"/>
 </p>
 
 ### Pourquoi l'informatique et pas astronaute ?
@@ -12,7 +12,7 @@ J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tous ce qui est r
 
 ### Etude ? 
 
-  <img align="right" width="55%" alt="img" src="https://www.ynov.com/wp-content/themes/ynov/assets/images/ynov-campus-chip.png"/>
+  <img align="right" width="45%" alt="img" src="https://www.ynov.com/wp-content/themes/ynov/assets/images/ynov-campus-chip.png"/>
 
 **Bon, ok...j'avoue je fais pas des études de dévéloppement**
   - [x] Deuxième année fini
@@ -71,6 +71,6 @@ Je possède aussi un **Linkedin**, un **site web** ou mon **adresse mail** si vo
 > Yeah
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/xT9IgBGEzw0RSZsyFq/giphy.gif"/>
+  <img align="center" width="30%" alt="GIF" src="https://media.giphy.com/media/xT9IgBGEzw0RSZsyFq/giphy.gif"/>
 </p>
 
