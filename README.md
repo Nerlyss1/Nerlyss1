@@ -68,7 +68,7 @@ Je possède aussi un **Linkedin**, un **site web** ou mon **adresse mail** si vo
 
 **A très vite je l'espère**<br/>
 
-> Yeah
+> Bye !
 
 <p align="center">
   <img align="center" width="30%" alt="GIF" src="https://media.giphy.com/media/xT9IgBGEzw0RSZsyFq/giphy.gif"/>
