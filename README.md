@@ -8,7 +8,7 @@
 
 ### Pourquoi l'informatique et pas astronaute ?
 
-J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tout ce qui est relié de près ou de loin à cette univers, en commençant par les jeux vidéo (*je sais c'est classique mais véridique*), puis la construction de PC, l'électronique, le développement, le réseau... (*et j'en passe*). Même si j'admets que devenir astronaute m'aurait beaucoup plu aussi, c'est finalement dans le monde de l'informatique que je suis partie à la dérive ! **Sans regrets**
+J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tout ce qui est relié de près ou de loin à cet univers, en commençant par les jeux vidéo (*je sais, c'est classique mais véridique*), puis la construction de PC, l'électronique, le développement, le réseau... (*et j'en passe*). Même si j'admets que devenir astronaute m'aurait beaucoup plu aussi, c'est finalement dans le monde de l'informatique que je suis partie à la dérive ! **Sans regrets**
 
 ### Etude ? 
 
@@ -27,9 +27,9 @@ J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tout ce qui est r
 
 &nbsp;
 
-## Et tu as fait quoi alors ?
+## Et tu fais quoi alors ?
 
-**J'ai réalisé quelques projets que je partage ici avec vous**<br/>
+**J'ai réalisé quelques projets que je vous partage ici**<br/>
  
 je suis **surmotivée** à l'idée de **créer** et **d'apprendre** toujours plus.<br/>
 ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin.
@@ -49,7 +49,7 @@ Oui
 > Non 😭
 
 
-Je possède aussi un **LinkedIn**, un **site web** et une **adresse e-mail** si vous voulez en apprendre plus sur moi ou me contacter !
+Je possède un **LinkedIn**, un **site web** et une **adresse e-mail** si vous voulez en apprendre plus sur moi ou me contacter !
 <br/>
 
 <p align="center">
