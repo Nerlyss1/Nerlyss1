@@ -8,14 +8,14 @@
 
 ### Pourquoi l'informatique et pas astronaute ?
 
-J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tous ce qui est relié de près ou de loin à cette univers, en commençant par les jeux vidéos (*je sais c'est classique mais véridique*), puis la construction de pc, l'électronique, le développement, le réseau... (*et j'en passe*). Même si j'admets qu'astronaute m'aurait beaucoup plus aussi, mais  c'est dans le monde de l'informatique où je suis finalement partie à la dérive ! **sans regrets**
+J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tout ce qui est relié de près ou de loin à cette univers, en commençant par les jeux vidéo (*je sais c'est classique mais véridique*), puis la construction de PC, l'électronique, le développement, le réseau... (*et j'en passe*). Même si j'admets que devenir astronaute m'aurait beaucoup plu aussi, c'est finalement dans le monde de l'informatique que je suis partie à la dérive ! **Sans regrets**
 
 ### Etude ? 
 
   <img align="right" width="45%" alt="img" src="https://www.ynov.com/wp-content/themes/ynov/assets/images/ynov-campus-chip.png"/>
 
-**Bon, ok...j'avoue je fais pas des études de dévéloppement**
-  - [x] Deuxième année fini
+**Bon, ok...j'avoue je fais pas des études de développement**
+  - [x] Deuxième année terminée
   - [x] Bachelor 3 infrastructure, cloud et sécurité en cours
   - [x] Deux années d'informatique général
   - [x] J'aime quand même le dev
@@ -29,9 +29,9 @@ J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tous ce qui est r
 
 ## Et tu as fait quoi alors ?
 
-**J'ai fait quelques projets que je partage ici avec vous**<br/>
+**J'ai réalisé quelques projets que je partage ici avec vous**<br/>
  
-je suis **surmotivé** à l'idée de **créer** et **d'apprendre** toujours plus.<br/>
+je suis **surmotivée** à l'idée de **créer** et **d'apprendre** toujours plus.<br/>
 ~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin.
 
 ```js
@@ -49,7 +49,7 @@ Oui
 > Non 😭
 
 
-Je possède aussi un **Linkedin**, un **site web** ou mon **adresse mail** si vous voulez en apprendre plus sur moi ou me contacter !
+Je possède aussi un **LinkedIn**, un **site web** et une **adresse e-mail** si vous voulez en apprendre plus sur moi ou me contacter !
 <br/>
 
 <p align="center">
