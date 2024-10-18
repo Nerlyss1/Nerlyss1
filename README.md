@@ -12,7 +12,7 @@ J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tout ce qui est r
 
 ### Etude ? 
 
-  <img align="right" width="45%" alt="img" src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.ulule.com%2Fynside-ynov%2F&psig=AOvVaw3qsbGwXgMtbQaxqVnT88JU&ust=1729346227989000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICv-u-KmIkDFQAAAAAdAAAAABAE)"/>
+  <img align="right" width="45%" alt="img" src="https://d2homsd77vx6d2.cloudfront.net/cache/f/3/f38921ef8c858513a36818e58892f49c.jpg"/>
 
 **Bon, ok...j'avoue je fais pas des études de développement**
   - [x] Deuxième année terminée
