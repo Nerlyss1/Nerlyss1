@@ -16,7 +16,7 @@ J'ai toujours aimé l'informatique depuis mon plus jeune âge. Tout ce qui est r
 
 **Bon, ok...j'avoue je fais pas des études de développement**
   - [x] Deuxième année terminée
-  - [x] Bachelor 3 infrastructure, cloud et sécurité en cours
+  - [x] Master 1 infrastructure, cloud et sécurité en cours
   - [x] Deux années d'informatique générale
   - [x] J'aime quand même le dev
   - [ ] Futur Master en approche
